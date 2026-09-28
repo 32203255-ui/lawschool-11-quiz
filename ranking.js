@@ -1,0 +1,1 @@
+window.loadQuizRanking=async function(){const area=document.getElementById('ranking');if(area)area.innerHTML='<h3>참여 기록과 비교하기</h3><p>참여자 순위는 준비 중이에요.</p><p class="note">지금은 내 총점과 분야별 결과를 확인할 수 있어요.</p>';};
